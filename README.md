@@ -39,6 +39,6 @@ Para criar sua primeira stack no cloudFormation você precisa:<br/>
 
    
 ## Referências
-[Docuemntação oficial da AWS](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/gettingstarted.walkthrough.html)<br/>
+[Documentação oficial da AWS](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/gettingstarted.walkthrough.html)<br/>
 [O que é infraestrutura como código](https://aws.amazon.com/pt/what-is/iac/#:~:text=Infraestrutura%20como%20c%C3%B3digo%20(IaC)%20%C3%A9,a%20novas%20oportunidades%20de%20neg%C3%B3cios.)<br/>
 [Vídeo explicativo](https://youtu.be/jxNpRLLrDFg?si=TaEFfH_SpZb_N9p1)
